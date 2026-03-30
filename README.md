@@ -1,4 +1,4 @@
-# 🌊 FlowNetwork: Linear-Time LLM Architecture
+# 🌊 FlowNetwork: Linear-Time LLM Architecture // Research Concept (koncept badawczy) 
 
 FlowNetwork to rewolucyjna, w pełni linearna $O(N)$ architektura sieci neuronowej do modelowania językowego (LLM), zaprojektowana z myślą o urządzeniach o ograniczonych zasobach sprzętowych (Edge AI) oraz procesowaniu tekstów o nielimitowanej długości kontesktu.
 
